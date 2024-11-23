@@ -1,0 +1,2 @@
+CLIP: Use prompt tuning to identify language of image directly
+mBERT: if text is extracted using OCR then use it to identify language
